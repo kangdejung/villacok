@@ -15,7 +15,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://villa-cok.com/*" />
+	<allow-navigation href="http://villacokapp.dungzi.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />
 	<access origin="*" />
