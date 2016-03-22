@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.villacokapp" version="2" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.dungzi.villacokapp" version="3" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
     <name>빌라콕</name>
     <description>	
         빌라콕
@@ -15,7 +15,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://villacokapp.dungzi.com/*" />
+	<allow-navigation href="http://villa-cok.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />
 	<access origin="*" />
